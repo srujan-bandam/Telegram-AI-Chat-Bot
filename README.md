@@ -31,8 +31,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
- git clone https://github.com/yourusername/telegram-bot-gemini.git
- cd telegram-bot-gemini
+ git clone https://github.com/srujan-bandam/Telegram-AI-Chat-Bot.git
+ cd Telegram-AI-Chat-Bot
 ```
 
 ### 2️⃣ Install Dependencies
