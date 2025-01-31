@@ -4,7 +4,7 @@ from PIL import Image
 import logging
 from serpapi import GoogleSearch
 from pymongo.server_api import ServerApi
-from google.cloud import vision
+
 import google.generativeai as genai
 from pymongo import MongoClient
 import certifi
